@@ -1,5 +1,7 @@
 # Real-time-detection
+Reg no :212223230146
 
+Name :Pavithra D
 ## Aim:
 Read and detect the object using yolov4(python)
 ## Program:
